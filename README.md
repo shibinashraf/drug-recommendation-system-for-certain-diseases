@@ -1,1 +1,1 @@
-# drug-recommendation-system-for-common-diseases
+# drug-recommendation-system-for-certain-diseases
